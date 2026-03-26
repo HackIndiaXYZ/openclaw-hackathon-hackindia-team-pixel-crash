@@ -1,5 +1,7 @@
 # AgroGenix - AI-Powered AgriTech Platform
 
+**AI-powered decision support system for modern farmers**
+
 A comprehensive digital agriculture solution designed to empower farmers with AI-driven insights, real-time weather intelligence, drone-based crop analytics, and direct market linkage.
 
 ## Overview
