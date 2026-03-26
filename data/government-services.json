@@ -1,0 +1,331 @@
+{
+  "states": {
+    "andhra-pradesh": {
+      "name": "Andhra Pradesh",
+      "services": [
+        {
+          "id": "ap-land-records",
+          "name": "AP Land Records",
+          "description": "Online land records and revenue services for Andhra Pradesh farmers",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://webland.ap.gov.in/",
+          "isActive": true,
+          "features": ["Land Records", "Revenue Services", "Survey Settlement"]
+        },
+        {
+          "id": "rytu-bharosa",
+          "name": "Rytu Bharosa",
+          "description": "Financial assistance scheme for farmers in Andhra Pradesh",
+          "type": "scheme",
+          "category": "subsidies",
+          "url": "https://www.ap.gov.in/rytubharosa/",
+          "isActive": true,
+          "features": ["Financial Support", "Direct Benefit Transfer", "Farmer Welfare"]
+        },
+        {
+          "id": "ap-agri-app",
+          "name": "AP Agriculture Mobile App",
+          "description": "Mobile application for agricultural services and information",
+          "type": "app",
+          "category": "mobile-services",
+          "url": "https://play.google.com/store/apps/details?id=com.ap.agriculture",
+          "isActive": true,
+          "features": ["Crop Advisory", "Weather Updates", "Market Prices"]
+        }
+      ]
+    },
+    "karnataka": {
+      "name": "Karnataka",
+      "services": [
+        {
+          "id": "bhoomi-karnataka",
+          "name": "Bhoomi Karnataka",
+          "description": "Online land records system for Karnataka",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://landrecords.karnataka.gov.in/",
+          "isActive": true,
+          "features": ["Land Records", "Mutation", "Survey Records"]
+        },
+        {
+          "id": "raitha-mitra",
+          "name": "Raitha Mitra",
+          "description": "Comprehensive agricultural support scheme for Karnataka farmers",
+          "type": "scheme",
+          "category": "subsidies",
+          "url": "https://raitamitra.karnataka.gov.in/",
+          "isActive": true,
+          "features": ["Input Subsidies", "Crop Insurance", "Technical Support"]
+        },
+        {
+          "id": "krishi-karnataka",
+          "name": "Krishi Karnataka App",
+          "description": "Mobile app for agricultural services in Karnataka",
+          "type": "app",
+          "category": "mobile-services",
+          "url": "https://play.google.com/store/apps/details?id=com.karnataka.krishi",
+          "isActive": true,
+          "features": ["Crop Management", "Expert Advice", "Market Information"]
+        }
+      ]
+    },
+    "maharashtra": {
+      "name": "Maharashtra",
+      "services": [
+        {
+          "id": "mahabhumi",
+          "name": "Mahabhumi",
+          "description": "Digital land records system for Maharashtra",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://mahabhumi.gov.in/",
+          "isActive": true,
+          "features": ["Land Records", "7/12 Extract", "Property Cards"]
+        },
+        {
+          "id": "mahatma-jyotiba-phule-jan-arogya-yojana",
+          "name": "Mahatma Jyotiba Phule Jan Arogya Yojana",
+          "description": "Health insurance scheme for farmers and rural population",
+          "type": "scheme",
+          "category": "insurance",
+          "url": "https://www.jeevandayee.gov.in/",
+          "isActive": true,
+          "features": ["Health Insurance", "Cashless Treatment", "Rural Healthcare"]
+        },
+        {
+          "id": "krishi-sahayak",
+          "name": "Krishi Sahayak App",
+          "description": "Agricultural assistance mobile application for Maharashtra",
+          "type": "app",
+          "category": "mobile-services",
+          "url": "https://play.google.com/store/apps/details?id=com.maha.krishi",
+          "isActive": true,
+          "features": ["Crop Advisory", "Weather Alerts", "Subsidy Information"]
+        }
+      ]
+    },
+    "punjab": {
+      "name": "Punjab",
+      "services": [
+        {
+          "id": "punjab-land-records",
+          "name": "Punjab Land Records",
+          "description": "Online land records and revenue services for Punjab",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://jamabandi.punjab.gov.in/",
+          "isActive": true,
+          "features": ["Jamabandi", "Mutation", "Revenue Records"]
+        },
+        {
+          "id": "meri-fasal-mera-byora",
+          "name": "Meri Fasal Mera Byora",
+          "description": "Crop registration and farmer database system",
+          "type": "scheme",
+          "category": "registration",
+          "url": "https://fasal.punjab.gov.in/",
+          "isActive": true,
+          "features": ["Crop Registration", "MSP Benefits", "Direct Payments"]
+        },
+        {
+          "id": "punjab-mandi-app",
+          "name": "Punjab Mandi App",
+          "description": "Real-time mandi prices and agricultural market information",
+          "type": "app",
+          "category": "market-info",
+          "url": "https://play.google.com/store/apps/details?id=com.punjab.mandi",
+          "isActive": true,
+          "features": ["Mandi Prices", "Market Arrivals", "Price Trends"]
+        }
+      ]
+    },
+    "uttar-pradesh": {
+      "name": "Uttar Pradesh",
+      "services": [
+        {
+          "id": "upbhulekh",
+          "name": "UP Bhulekh",
+          "description": "Online land records system for Uttar Pradesh",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://upbhulekh.gov.in/",
+          "isActive": true,
+          "features": ["Khasra Khatauni", "Bhu Naksha", "Land Verification"]
+        },
+        {
+          "id": "kisan-registration",
+          "name": "UP Kisan Registration",
+          "description": "Farmer registration portal for government schemes",
+          "type": "portal",
+          "category": "registration",
+          "url": "https://registration.up.gov.in/",
+          "isActive": true,
+          "features": ["Farmer Registration", "Scheme Benefits", "Subsidy Access"]
+        },
+        {
+          "id": "up-agriculture-app",
+          "name": "UP Agriculture App",
+          "description": "Comprehensive agricultural services app for UP farmers",
+          "type": "app",
+          "category": "mobile-services",
+          "url": "https://play.google.com/store/apps/details?id=com.up.agriculture",
+          "isActive": true,
+          "features": ["Crop Advisory", "Soil Health", "Weather Information"]
+        }
+      ]
+    },
+    "tamil-nadu": {
+      "name": "Tamil Nadu",
+      "services": [
+        {
+          "id": "tn-land-records",
+          "name": "TN Land Records",
+          "description": "Tamil Nadu land records and survey settlement",
+          "type": "portal",
+          "category": "land-records",
+          "url": "https://webland.tn.gov.in/",
+          "isActive": true,
+          "features": ["Patta", "Chitta", "Survey Settlement"]
+        },
+        {
+          "id": "uzhavan-app",
+          "name": "Uzhavan App",
+          "description": "Comprehensive farming app for Tamil Nadu farmers",
+          "type": "app",
+          "category": "mobile-services",
+          "url": "https://play.google.com/store/apps/details?id=com.tn.uzhavan",
+          "isActive": true,
+          "features": ["Crop Calendar", "Expert Advice", "Market Prices"]
+        },
+        {
+          "id": "tn-farmer-producer-company",
+          "name": "TN Farmer Producer Company Scheme",
+          "description": "Support scheme for farmer producer organizations",
+          "type": "scheme",
+          "category": "cooperatives",
+          "url": "https://www.tn.gov.in/fpo/",
+          "isActive": true,
+          "features": ["FPO Formation", "Financial Support", "Market Linkage"]
+        }
+      ]
+    }
+  },
+  "national": [
+    {
+      "id": "pm-kisan",
+      "name": "PM-KISAN",
+      "description": "Direct income support scheme for farmers across India",
+      "type": "scheme",
+      "category": "subsidies",
+      "url": "https://pmkisan.gov.in/",
+      "isActive": true,
+      "features": ["Direct Benefit Transfer", "₹6000 Annual Support", "All India Coverage"],
+      "isFeatured": true
+    },
+    {
+      "id": "pmfby",
+      "name": "Pradhan Mantri Fasal Bima Yojana",
+      "description": "Comprehensive crop insurance scheme for farmers",
+      "type": "scheme",
+      "category": "insurance",
+      "url": "https://pmfby.gov.in/",
+      "isActive": true,
+      "features": ["Crop Insurance", "Premium Subsidy", "Risk Coverage"],
+      "isFeatured": true
+    },
+    {
+      "id": "enam",
+      "name": "eNAM",
+      "description": "National Agriculture Market - online trading platform",
+      "type": "portal",
+      "category": "market-info",
+      "url": "https://enam.gov.in/",
+      "isActive": true,
+      "features": ["Online Trading", "Price Discovery", "Market Integration"],
+      "isFeatured": true
+    },
+    {
+      "id": "kisan-call-center",
+      "name": "Kisan Call Center",
+      "description": "24x7 helpline for farmers - Dial 1551",
+      "type": "service",
+      "category": "support",
+      "url": "https://mkisan.gov.in/",
+      "isActive": true,
+      "features": ["24x7 Support", "Expert Advice", "Multilingual"],
+      "isFeatured": true
+    },
+    {
+      "id": "soil-health-card",
+      "name": "Soil Health Card Scheme",
+      "description": "Soil testing and health card distribution for farmers",
+      "type": "scheme",
+      "category": "soil-health",
+      "url": "https://soilhealth.dac.gov.in/",
+      "isActive": true,
+      "features": ["Soil Testing", "Nutrient Management", "Fertilizer Recommendations"]
+    },
+    {
+      "id": "kisan-credit-card",
+      "name": "Kisan Credit Card",
+      "description": "Credit facility for farmers for agricultural needs",
+      "type": "scheme",
+      "category": "credit",
+      "url": "https://www.nabard.org/content1.aspx?id=570",
+      "isActive": true,
+      "features": ["Agricultural Credit", "Flexible Repayment", "Low Interest"]
+    },
+    {
+      "id": "mkisan-portal",
+      "name": "mKisan Portal",
+      "description": "Mobile-based agricultural advisory services",
+      "type": "portal",
+      "category": "advisory",
+      "url": "https://mkisan.gov.in/",
+      "isActive": true,
+      "features": ["SMS Advisory", "Voice Messages", "Agricultural Tips"]
+    },
+    {
+      "id": "agmarknet",
+      "name": "AGMARKNET",
+      "description": "Agricultural marketing information network",
+      "type": "portal",
+      "category": "market-info",
+      "url": "https://agmarknet.gov.in/",
+      "isActive": true,
+      "features": ["Market Prices", "Arrivals Data", "Price Trends"]
+    },
+    {
+      "id": "kisan-suvidha-app",
+      "name": "Kisan Suvidha App",
+      "description": "Mobile app providing various agricultural services",
+      "type": "app",
+      "category": "mobile-services",
+      "url": "https://play.google.com/store/apps/details?id=com.negd.farmer",
+      "isActive": true,
+      "features": ["Weather Info", "Market Prices", "Agricultural Advisory"]
+    },
+    {
+      "id": "pusa-krishi-app",
+      "name": "Pusa Krishi App",
+      "description": "IARI's comprehensive agricultural knowledge app",
+      "type": "app",
+      "category": "mobile-services",
+      "url": "https://play.google.com/store/apps/details?id=com.iari.pusa",
+      "isActive": true,
+      "features": ["Crop Varieties", "Disease Management", "Expert Recommendations"]
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "All Services", "icon": "grid-3x3" },
+    { "id": "schemes", "name": "Schemes", "icon": "gift" },
+    { "id": "apps", "name": "Mobile Apps", "icon": "smartphone" },
+    { "id": "subsidies", "name": "Subsidies", "icon": "indian-rupee" },
+    { "id": "insurance", "name": "Insurance", "icon": "shield-check" },
+    { "id": "land-records", "name": "Land Records", "icon": "map" },
+    { "id": "market-info", "name": "Market Info", "icon": "trending-up" },
+    { "id": "credit", "name": "Credit & Finance", "icon": "credit-card" },
+    { "id": "support", "name": "Support Services", "icon": "headphones" }
+  ]
+}

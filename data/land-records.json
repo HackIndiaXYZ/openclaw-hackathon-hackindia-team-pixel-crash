@@ -1,0 +1,248 @@
+{
+  "states": {
+    "andhra-pradesh": {
+      "name": "Andhra Pradesh",
+      "portal": "AP Land Records (Webland)",
+      "url": "https://webland.ap.gov.in/",
+      "features": ["Pahani", "1-B Register", "Survey Settlement", "Village Revenue Records", "Mutation Status"],
+      "languages": ["Telugu", "English"],
+      "helpline": "0863-2340100"
+    },
+    "arunachal-pradesh": {
+      "name": "Arunachal Pradesh",
+      "portal": "AP Land Records Portal",
+      "url": "https://landrecords.arunachal.gov.in/",
+      "features": ["Land Records", "Revenue Records", "Survey Records"],
+      "languages": ["English", "Hindi"],
+      "helpline": "0360-2214000"
+    },
+    "assam": {
+      "name": "Assam",
+      "portal": "Dharitri - Assam Land Records",
+      "url": "https://revenueassam.nic.in/",
+      "features": ["Jamabandi", "Dag Number", "Patta", "Khatian", "Mutation"],
+      "languages": ["Assamese", "English", "Bengali"],
+      "helpline": "0361-2237582"
+    },
+    "bihar": {
+      "name": "Bihar",
+      "portal": "Bihar Bhumi (Apna Khata)",
+      "url": "http://land.bihar.gov.in/",
+      "features": ["Khata Khesra", "Jamabandi", "Khasra Wise Land Details", "Mutation Status"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0612-2506066"
+    },
+    "chhattisgarh": {
+      "name": "Chhattisgarh",
+      "portal": "CG Bhuiyan",
+      "url": "https://bhuiyan.cg.nic.in/",
+      "features": ["B1/P2 Khasra", "Khasra Wise Details", "Name Wise Search", "Mutation Status"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0771-2221039"
+    },
+    "goa": {
+      "name": "Goa",
+      "portal": "Goa Land Records",
+      "url": "https://goaland.gov.in/",
+      "features": ["Survey Settlement", "Village Records", "Property Cards"],
+      "languages": ["English", "Konkani", "Marathi"],
+      "helpline": "0832-2419000"
+    },
+    "gujarat": {
+      "name": "Gujarat",
+      "portal": "AnyROR Gujarat",
+      "url": "https://anyror.gujarat.gov.in/",
+      "features": ["Village Form No. 7/12", "Village Form No. 8A", "Village Form No. 6", "Mutation Entry"],
+      "languages": ["Gujarati", "English", "Hindi"],
+      "helpline": "079-23251501"
+    },
+    "haryana": {
+      "name": "Haryana",
+      "portal": "Jamabandi Haryana",
+      "url": "https://jamabandi.nic.in/",
+      "features": ["Jamabandi", "Mutation", "Registry", "Khasra Girdawari"],
+      "languages": ["Hindi", "English", "Punjabi"],
+      "helpline": "0172-2560349"
+    },
+    "himachal-pradesh": {
+      "name": "Himachal Pradesh",
+      "portal": "HP Land Records",
+      "url": "https://lrc.hp.gov.in/",
+      "features": ["Jamabandi", "Shajra Nasb", "Mutation Register", "Khasra Girdawari"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0177-2620245"
+    },
+    "jharkhand": {
+      "name": "Jharkhand",
+      "portal": "Jharbhoomi",
+      "url": "https://jharbhoomi.nic.in/",
+      "features": ["Khasra Details", "Register II", "Mutation Details", "Land Classification"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0651-2446066"
+    },
+    "karnataka": {
+      "name": "Karnataka",
+      "portal": "Bhoomi Karnataka",
+      "url": "https://landrecords.karnataka.gov.in/",
+      "features": ["Pahani", "Mutation", "Survey Settlement", "Village Accountant Records"],
+      "languages": ["Kannada", "English"],
+      "helpline": "080-22212424"
+    },
+    "kerala": {
+      "name": "Kerala",
+      "portal": "Kerala Land Records",
+      "url": "https://webland.kerala.gov.in/",
+      "features": ["Survey Settlement", "Re-survey Records", "Village Records", "Boundary Stones"],
+      "languages": ["Malayalam", "English"],
+      "helpline": "0471-2518070"
+    },
+    "madhya-pradesh": {
+      "name": "Madhya Pradesh",
+      "portal": "MP Bhulekh",
+      "url": "https://mpbhulekh.gov.in/",
+      "features": ["Khasra", "Khatoni", "Bhu Naksha", "Mutation Status"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0755-2700800"
+    },
+    "maharashtra": {
+      "name": "Maharashtra",
+      "portal": "Mahabhumi",
+      "url": "https://mahabhumi.gov.in/",
+      "features": ["7/12 Satbara", "8A", "Property Card", "Mutation Entry"],
+      "languages": ["Marathi", "English", "Hindi"],
+      "helpline": "022-22026082"
+    },
+    "manipur": {
+      "name": "Manipur",
+      "portal": "Manipur Land Records",
+      "url": "https://louchapathap.nic.in/",
+      "features": ["Patta", "Khasra", "Settlement Records"],
+      "languages": ["Manipuri", "English"],
+      "helpline": "0385-2414654"
+    },
+    "meghalaya": {
+      "name": "Meghalaya",
+      "portal": "Meghalaya Land Records",
+      "url": "https://megrevenue.gov.in/",
+      "features": ["Land Records", "Revenue Records", "Settlement"],
+      "languages": ["English", "Khasi", "Garo"],
+      "helpline": "0364-2226745"
+    },
+    "mizoram": {
+      "name": "Mizoram",
+      "portal": "Mizoram Land Records",
+      "url": "https://landrevenue.mizoram.gov.in/",
+      "features": ["Land Records", "Settlement Records", "Revenue Records"],
+      "languages": ["Mizo", "English"],
+      "helpline": "0389-2322656"
+    },
+    "nagaland": {
+      "name": "Nagaland",
+      "portal": "Nagaland Land Records",
+      "url": "https://landrecords.nagaland.gov.in/",
+      "features": ["Land Records", "Revenue Records", "Village Records"],
+      "languages": ["English", "Nagamese"],
+      "helpline": "0370-2290214"
+    },
+    "odisha": {
+      "name": "Odisha",
+      "portal": "Bhulekh Odisha",
+      "url": "https://bhulekh.ori.nic.in/",
+      "features": ["Khata", "Plot", "Tenant Info", "Mutation Status"],
+      "languages": ["Odia", "English"],
+      "helpline": "0674-2536060"
+    },
+    "punjab": {
+      "name": "Punjab",
+      "portal": "Punjab Land Records (Jamabandi)",
+      "url": "https://jamabandi.punjab.gov.in/",
+      "features": ["Jamabandi", "Mutation", "Fard", "Registry"],
+      "languages": ["Punjabi", "Hindi", "English"],
+      "helpline": "0172-2740410"
+    },
+    "rajasthan": {
+      "name": "Rajasthan",
+      "portal": "Apna Khata Rajasthan",
+      "url": "http://apnakhata.raj.nic.in/",
+      "features": ["Jamabandi Nakal", "Khasra Nakal", "Mutation Status", "Name Wise Search"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0141-2227849"
+    },
+    "sikkim": {
+      "name": "Sikkim",
+      "portal": "Sikkim Land Records",
+      "url": "https://landrevenue.sikkim.gov.in/",
+      "features": ["Land Records", "Revenue Records", "Settlement Records"],
+      "languages": ["English", "Nepali"],
+      "helpline": "03592-202101"
+    },
+    "tamil-nadu": {
+      "name": "Tamil Nadu",
+      "portal": "Webland Tamil Nadu",
+      "url": "https://webland.tn.gov.in/",
+      "features": ["Patta", "Chitta", "A Register", "Survey Settlement"],
+      "languages": ["Tamil", "English"],
+      "helpline": "044-28524491"
+    },
+    "telangana": {
+      "name": "Telangana",
+      "portal": "Webland Telangana",
+      "url": "https://webland.telangana.gov.in/",
+      "features": ["Pahani", "1-B Register", "Survey Settlement", "Mutation"],
+      "languages": ["Telugu", "English"],
+      "helpline": "040-23312146"
+    },
+    "tripura": {
+      "name": "Tripura",
+      "portal": "Tripura Land Records",
+      "url": "https://jami.tripura.gov.in/",
+      "features": ["Land Records", "Khatian", "Dag Details", "Mutation"],
+      "languages": ["Bengali", "English"],
+      "helpline": "0381-2315004"
+    },
+    "uttar-pradesh": {
+      "name": "Uttar Pradesh",
+      "portal": "UP Bhulekh",
+      "url": "https://upbhulekh.gov.in/",
+      "features": ["Khasra Khatauni", "Bhu Naksha", "Khasra Code", "Gata Code"],
+      "languages": ["Hindi", "English", "Urdu"],
+      "helpline": "0522-2237164"
+    },
+    "uttarakhand": {
+      "name": "Uttarakhand",
+      "portal": "Devbhoomi Uttarakhand",
+      "url": "https://bhulekh.uk.gov.in/",
+      "features": ["Khasra Khatauni", "Bhu Naksha", "Mutation Status", "Khasra Code"],
+      "languages": ["Hindi", "English"],
+      "helpline": "0135-2710582"
+    },
+    "west-bengal": {
+      "name": "West Bengal",
+      "portal": "Banglarbhumi",
+      "url": "https://banglarbhumi.gov.in/",
+      "features": ["Plot Information", "Khatian & Plot Info", "Mutation Status", "RS & LR Plot Info"],
+      "languages": ["Bengali", "English", "Hindi"],
+      "helpline": "033-22144900"
+    }
+  },
+  "commonDocuments": [
+    "Survey Number",
+    "Khasra Number",
+    "Village Name",
+    "Tehsil/Block",
+    "District Name",
+    "Owner Name",
+    "Father's Name",
+    "Mobile Number"
+  ],
+  "benefits": [
+    "Loan applications and approvals",
+    "Property registration and transfer",
+    "Government scheme eligibility verification",
+    "Legal documentation for court cases",
+    "Insurance claim processing",
+    "Agricultural subsidy applications",
+    "Land mutation and ownership transfer",
+    "Revenue record verification"
+  ]
+}
